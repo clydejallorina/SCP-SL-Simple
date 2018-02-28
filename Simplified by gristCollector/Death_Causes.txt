@@ -1,0 +1,14 @@
+Died of an explosion.
+Died from fall damage.
+Died to re-contain SCP-106.
+Lost in the Pocket Dimension.
+Remnant of SCP-106.
+High-voltage electric shock (Tesla/MicroHID).
+Crushed by a heavy structure.
+Killed using [ammotype] ammo type.
+Snapped neck at the base of the skull.
+Killed by SCP-106
+Cured of the Plague
+Unknown cause of death.
+<b>[user]</b> | [class] | [cause]
+13
