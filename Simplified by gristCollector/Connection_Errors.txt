@@ -15,3 +15,5 @@
 <size=80>ROUND RESTART</size>\n<size=35>The server is restarting level...</size>
 <size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
 <size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])
+<size=80>CONNECTED</size>
+<size=35>Loading the facility...</size>
